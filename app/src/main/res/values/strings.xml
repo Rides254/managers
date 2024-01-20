@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Managers</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_display">display</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_intent">IntentActivity</string>
+    <string name="title_activity_products">productsActivity</string>
+    <string name="title_activity_product">ProductActivity</string>
+    <string name="title_activity_splashscreen">SplashscreenActivity</string>
+    <string name="title_activity_pdf2">PdfActivity2</string>
+    <string name="title_activity_add_employee">AddEmployeeActivity</string>
+</resources>
